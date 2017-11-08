@@ -1,0 +1,19 @@
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.deps.json
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.runtimeconfig.json
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.runtimeconfig.dev.json
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.dll
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.csprojResolveAssemblyReference.cache
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.csproj.CoreCompileInputs.cache
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.AssemblyInfo.cs
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.pdb
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.dll
+C:\Users\felix_zclet62\source\repos\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.deps.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.runtimeconfig.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.runtimeconfig.dev.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\bin\Debug\netcoreapp1.1\TestRestConsola.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.AssemblyInfo.cs
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\uf1846\clase7\TestRestConsola\TestRestConsola\obj\Debug\netcoreapp1.1\TestRestConsola.pdb
